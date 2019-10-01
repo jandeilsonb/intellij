@@ -1,0 +1,7 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl dead_circumflex" />
+    <keyboard-shortcut first-keystroke="shift ctrl numpad1" />
+  </action>
+</keymap>
