@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="pubsub-proprietary-collector" type="YAML" />
+      <mapping pattern="pubsub-proprietary-collector.yaml" type="YAML" />
     </extensionMap>
   </component>
 </application>
