@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar-qube.stilingue.com.br" />
+          <token>df9adfcedf92df9fdfccdf9fdf9ddfc9df98df9cdf9bdf9edf99dfccdf9ddfcedf9cdf93df9adfc8df9adf99df92dfcfdf9bdf9ddfc8df9adf93dfcedf9cdf92dfcfdf9bdf9ddfc8dfc8df9ddf9bdfce</token>
+          <option name="name" value="StilingueSonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
