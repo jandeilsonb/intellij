@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="squid:S2447" />
+        <option value="squid:S2864" />
       </set>
     </option>
     <option name="sonarQubeServers">
