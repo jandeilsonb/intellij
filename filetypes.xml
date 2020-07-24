@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="stilingue" type="PLAIN_TEXT" />
       <mapping pattern="pubsub-proprietary-collector" type="YAML" />
       <mapping pattern="pubsub-proprietary-collector.yaml" type="YAML" />
     </extensionMap>
