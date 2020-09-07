@@ -9,8 +9,8 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.yaml</mask>
     <mask>*</mask>
+    <mask>*.yaml</mask>
     <mask>*.java</mask>
   </component>
 </application>
