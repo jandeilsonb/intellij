@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="stilingue" type="PLAIN_TEXT" />
       <mapping pattern="pubsub-proprietary-collector" type="YAML" />
       <mapping pattern="pubsub-proprietary-collector.yaml" type="YAML" />
